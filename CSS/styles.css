@@ -99,8 +99,8 @@ a:hover {
 
 #css {
     background-image: url("../images/css3s.png");
-    left: 400px;
-    top: 220px;
+    left: 375px;
+    top: 250px;
 }
 
 #sql {
@@ -122,7 +122,7 @@ a:hover {
 
 #python {
     background-image: url("../images/pythons.png");
-    left: 1450px;
+    left: 1275px;
     bottom: 100px;
 }
 
@@ -134,8 +134,11 @@ a:hover {
 }
 
 #html5 {
+    left: 350px;
+    bottom: 100px;
+    /*     
     width: 350px;
-    height: 100px;
+    height: 100px; */
 }
 
 .programming {
